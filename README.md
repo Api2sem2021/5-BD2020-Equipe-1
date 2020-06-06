@@ -75,8 +75,12 @@ Para descobrir como executar o projeto ou explorar o código fonte, visite a pá
 - [Front-end (AntenasClient)](https://github.com/antena-dream-team/AntenasClient)
 - [API (AntenasService)](https://github.com/antena-dream-team/AntenasService)
 
----
-
 Para conhecer os pré-requisitos, tecnologias utilizadas e motivação para a refatoração geral do Antenas, visite a wiki de cada um dos repositórios:
 - [Wiki do AntenasClient](https://github.com/antena-dream-team/AntenasClient/wiki)
 - [Wiki do AntenasService](https://github.com/antena-dream-team/AntenasService/wiki)
+
+---
+
+<p align="center">
+  <img src="https://antenas.s3.amazonaws.com/fatec-logo.png" alt="Logo do Projeto Antenas" width="150" />
+</p>
