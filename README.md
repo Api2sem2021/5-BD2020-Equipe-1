@@ -27,7 +27,7 @@ O Antenas é uma **plataforma online para conectar a FATEC com as empresas do me
 
 Esta abordagem proporciona ao aluno uma experiência mais próxima do que ele encontrará no mercado de trabalho quando sair da faculdade, uma vez que o projeto não esta sendo aplicado apenas por razões didáticas, mas sim para servir um cliente real.
 
-Para saber mais, acesse o tópico [O que é o Antenas?](https://github.com/antena-dream-team/AntenasClient/wiki/Conceito#o-que-%C3%A9-o-antenas) na nossa wiki.
+Para saber mais, acesse o tópico [O que é o Antenas?](https://github.com/antena-dream-team/Antenas/wiki/Conceito#o-que-%C3%A9-o-antenas) na nossa wiki.
 
 
 ## Vida de um projeto no Antenas
@@ -75,9 +75,7 @@ Para descobrir como executar o projeto ou explorar o código fonte, visite a pá
 - [Front-end (AntenasClient)](https://github.com/antena-dream-team/AntenasClient)
 - [API (AntenasService)](https://github.com/antena-dream-team/AntenasService)
 
-Para conhecer os pré-requisitos, tecnologias utilizadas e motivação para a refatoração geral do Antenas, visite a wiki de cada um dos repositórios:
-- [Wiki do AntenasClient](https://github.com/antena-dream-team/AntenasClient/wiki)
-- [Wiki do AntenasService](https://github.com/antena-dream-team/AntenasService/wiki)
+**Para conhecer os pré-requisitos, tecnologias utilizadas e motivação para a refatoração geral do Antenas, [visite a nossa wiki](https://github.com/antena-dream-team/Antenas/wiki).**
 
 <p align="center">
   <a href="http://fatecsjc-prd.azurewebsites.net/" target="_blank">
