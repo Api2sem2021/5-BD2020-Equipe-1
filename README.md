@@ -18,8 +18,8 @@
 - [Danielly Jardim](https://github.com/daniellygj) _Dev_
 - [Fábio Romeiro](https://github.com/FabioRomeiro) _Scrum Master_
 - [Giovanna Xavier](https://github.com/giovannaxavierm) _Dev_
-- [Mateus Machado](https://github.com/Mateusmsouza) _Dev_
-- [Thiago Dias](https://github.com/ThiagoDisk) _Dev_
+- [Mateus Machado](https://github.com/Mateusmsouza) _Dev_ / _DevOps_
+- [Thiago Dias](https://github.com/ThiagoDisk) _Dev_ / _DevOps_
 
 ## O que é o Antenas?
 
