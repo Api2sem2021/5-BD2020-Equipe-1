@@ -66,14 +66,14 @@ Para saber mais, acesse o tópico [O que é o Antenas?](https://github.com/anten
 - [Service - Issue#8](https://github.com/antena-dream-team/AntenasService/issues/8) - Resolver problemas de login e autenticação
 - [Client - Issue#11](https://github.com/antena-dream-team/AntenasClient/issues/11) - Visualização de home para Cadi
 - [Client - Issue#9](https://github.com/antena-dream-team/AntenasClient/issues/9) - Visualização de home para Professores
+
+#### Entrega 6
 - [Client - Issue#10](https://github.com/antena-dream-team/AntenasClient/issues/10) - Visualização de home para Alunos
 - [Client - Issue#3](https://github.com/antena-dream-team/AntenasClient/issues/3) - Integrar autenticação de usuário com a API
 - [Client - Issue#4](https://github.com/antena-dream-team/AntenasClient/issues/4) - Integrar busca de informações de usuário com a API
 - [Client - Issue#5](https://github.com/antena-dream-team/AntenasClient/issues/5) - Integrar o cadastro de usuário
 - [Client - Issue#6](https://github.com/antena-dream-team/AntenasClient/issues/6) - Integrar a busca de projetos
 - [Client - Issue#7](https://github.com/antena-dream-team/AntenasClient/issues/7) - Integrar endpoints de cadastro, edição e deleção de projeto
-
-#### Entrega 6
 - [Global - Issue#1](https://github.com/antena-dream-team/Antenas/issues/1) - Vídeo de introdução da aplicação
 
 
